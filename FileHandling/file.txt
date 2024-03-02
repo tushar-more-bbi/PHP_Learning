@@ -1,0 +1,4 @@
+This i text file which is used for praticing file handling in PHP.
+This is line no second.
+This is line no third.
+This is the fourth sentence.

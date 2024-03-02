@@ -120,6 +120,4 @@ else{
     "Not deleted because of error" . mysqli_error($conn);
 }
 
-
-
 ?>

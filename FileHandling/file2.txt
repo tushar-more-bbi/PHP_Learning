@@ -1,0 +1,3 @@
+This is the sentence which has been wrote through php program file handling function to file2.txt
+This is the second sentence. 
+This is the third sentence. 
