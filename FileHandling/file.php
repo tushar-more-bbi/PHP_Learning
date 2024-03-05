@@ -60,7 +60,4 @@ fwrite($fptr,"This is the third sentence. \n");
 $fptr1=fopen("file.txt","a");
 fwrite($fptr1,"This is the fourth sentence.");
 
-
-
-
 ?>
